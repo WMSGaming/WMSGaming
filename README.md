@@ -3,7 +3,7 @@
     <h1>
     I am WMS
     </h1>
-    <h3>I am learning</h3>
+    <h3>&#9997;I am learning&#9997;</h3>
     -Python<br/>
     -HTML<br/>
     <a href="https://www.youtube.com/c/WMSGaming1/featured"target="_blank">My Youtube</a><br>
