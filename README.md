@@ -1,4 +1,4 @@
-
+[![HitCount](https://hits.dwyl.com/WMSGaming/WMSGaming.svg?style=flat-square)](http://hits.dwyl.com/WMSGaming/WMSGaming)
 <div align = "center">
     <h1>
     I am WMS
